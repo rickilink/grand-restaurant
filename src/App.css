@@ -1,0 +1,18 @@
+#root {
+  margin: 0 ;
+  padding: 0;
+
+}
+
+@font-face {
+  font-family: "Beyond Infinity";
+  src: url("../src//assets/Beyond-Infinity.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Kristi";
+  src: url("../src//assets/Kristi-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
